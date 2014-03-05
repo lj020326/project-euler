@@ -6,10 +6,10 @@ What is the largest prime factor of the number 600851475143 ?
 
 number = 600851475143
 
-def is_prime():
+def is_prime(number):
     pass
     
-def factores():
+def factors(number):
     pass
     
 def largest_factor():
