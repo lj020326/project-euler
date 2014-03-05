@@ -9,3 +9,5 @@ def is_prime():
     
 def factores():
     pass
+    
+def largest_factor():
