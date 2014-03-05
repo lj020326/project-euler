@@ -8,4 +8,4 @@ def is_prime():
     pass
     
 def factores():
-    
+    pass
