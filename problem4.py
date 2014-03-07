@@ -15,6 +15,7 @@ for i in range(100, 1000):
         if is_palindrome(i*j) and (i*j) > largest_palindrome:
             largest_palindrome = i * j    
 
+print largest_palindrome  
 
 
 
