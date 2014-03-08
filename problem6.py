@@ -15,6 +15,10 @@ natural numbers and the square of the sum.
 sum_of_squares = 0
 square_sum = 0
 
+for i in xrange(1, 101):
+    sum_of_squares += i * i
+    square_sum += i
+
 
 
     
