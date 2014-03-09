@@ -29,7 +29,7 @@ for number in domain:
         
 print min(p_list)
 '''
-# long but very efficient method
+# long but very efficient method. It completes execution in 0.008s (usertime).
 
 # Let N be the smallest number that is divisible by all the integers from 2 to k.
 # For N to be the smallest value with this property we must ensure that in its
